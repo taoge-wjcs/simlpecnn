@@ -181,6 +181,9 @@
 * ![result1](https://github.com/taoge-wjcs/simlpecnn/blob/main/p/result1.png)
 
 * 测试背景图片时的输出结果：
+* ```c++
+  Mat img = imread("bg.jpg");
+  ```
 * ![result2](https://github.com/taoge-wjcs/simlpecnn/blob/main/p/result2.png)
 
 * 结果正确。
