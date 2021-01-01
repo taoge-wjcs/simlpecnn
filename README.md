@@ -178,10 +178,10 @@
   Mat img = imread("face.jpg");
   ```
 
-* ![result1](D:\cx\simlpecnn\p\result1.png)
+* ![result1](https://github.com/taoge-wjcs/simlpecnn/blob/main/p/result1.png)
 
 * 测试背景图片时的输出结果：
-* ![result2](D:\cx\simlpecnn\p\result2.png)
+* ![result2](https://github.com/taoge-wjcs/simlpecnn/blob/main/p/result2.png)
 
 * 结果正确。
 
